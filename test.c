@@ -1,5 +1,5 @@
-#include<std.io>
+#include<stdio.h>
 
 int main() {
-  printf("Haro ma Oles");
+  printf("To C or not to C: that is the question");
 }
